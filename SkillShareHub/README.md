@@ -100,4 +100,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-> Made with ❤️ by [Your Name]
+> Made with ❤️ by [Bhavya Sharma]
